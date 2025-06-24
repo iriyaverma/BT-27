@@ -1,2 +1,2 @@
 # BT-27
-this for 
+This is BT-27
